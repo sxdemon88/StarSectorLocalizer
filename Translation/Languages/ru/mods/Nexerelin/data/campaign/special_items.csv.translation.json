@@ -1,0 +1,10 @@
+{
+    "TranslatedColumns": [
+        "name",
+        "desc"
+    ],
+    "Translations": {
+        "Faction Setup Item": "Предмет Настройки Фракции",
+        "Fake item for new game faction setup configuration.": "Поддельный предмет для настройки новой игровой фракции."
+    }
+}

@@ -1,0 +1,41 @@
+{
+  "TranslatedColumns": [
+    "subject",
+    "summary",
+    "assessment"
+  ],
+  "Translations": {
+    "player_intel_always": null,
+    "Slave trade $onOrAt $market": "Работорговля в $onOrAt $market",
+    "Rumors have surfaced concerning your sale of slaves $onOrAt $market. The lawful factions in the $location are appalled at your lack of respect for basic human dignity.": "Появились слухи о продаже вами рабов на $onOrAt $market. Законопослушные группировки в $location возмущены вашим неуважением к элементарному человеческому достоинству.",
+    "Reputation with $numFactions faction(s) reduced by an average of $repPenaltyAbs.": "Репутация с фракциями $numFactions уменьшилась в среднем на $repPenaltyAbs.",
+    "Unprovoked attack on $faction": "Неспровоцированная атака на $faction",
+    "Your unprovoked attack on $theFaction has angered some of the other factions, and caused great consternation for $thePlayerFaction.": "Ваша ничем не спровоцированная атака на $theFaction разозлила некоторые другие фракции и привела в ужас $thePlayerFaction.",
+    "Reputation with $playerFaction reduced by $repPenaltyMyFactionAbs, currently at $newRelationStr.\r\nAverage reputation penalty with $numFactions other faction(s): $repPenaltyAvgAbs": "Репутация с $playerFaction снижена на $repPenaltyMyFactionAbs, в настоящее время на уровне $newRelationStr.\r\nСредняя потеря репутации с другими фракциями $numFactions : $repPenaltyAvgAbs",
+    "graphics/exerelin/icons/intel/war.png": null,
+    "Your unprovoked attack on $theFaction has angered some of the other factions.": "Ваша неспровоцированная атака на $theFaction разозлила некоторые другие фракции.",
+    "Average reputation penalty with $numFactions other faction(s): $repPenaltyAvgAbs": "Средняя потеря репутации с другими фракциями $numFactions: $repPenaltyAvgAbs",
+    "news": null,
+    "Superweapon used by $attackerFaction $onOrAt $market!": "Супероружие использовано $attackerFaction $onOrAt $market!",
+    "$AttackerFaction forces have used a planet buster superweapon $onOrAt $market, causing shocking levels of destruction. This represents a serious escalation of their conflict with $TheFaction.": "Силы $AttackerFaction использовали супероружие для уничтожения планет $onOrAt $market, вызвав шокирующие разрушения. Это представляет собой серьезную эскалацию их конфликта с $TheFaction.",
+    "Stability reduced by $stabilityPenalty.\r\nRelations between $attackerFaction and $faction reduced by $relDeltaAbs, currently at $newRelationStr.": "Стабильность снижена на $stabilityPenelty.\r\nОтношения между $attackerFaction и $faction уменьшены на $relDeltaAbs, в настоящее время на уровне $newRelationStr.",
+    "graphics/icons/markets/meteor_strike.png": null,
+    "$AttackerFaction forces commanded by $playerName have used a planet buster superweapon $onOrAt $market, causing massive levels of destruction. This shocking action may well lead to a diplomatic crisis.": "Силы $AttackerFaction под командованием $playerName использовали супероружие для уничтожения планеты $onOrAt $market, вызвав массовые разрушения. Эта шокирующая акция вполне может привести к дипломатическому кризису.",
+    "Stability reduced by $stabilityPenalty.\r\nRelations between $attackerFaction and $faction reduced by $relDeltaAbs, currently at $newRelationStr.\r\nAverage reputation penalty with $numFactions other faction(s): $repPenaltyAvgAbs": "Стабильность снижена на $stabilityPenelty.\r\nОтношения между $attackerFaction и $faction уменьшены на $relDeltaAbs, в настоящее время на уровне $newRelationStr.\r\nСредняя потеря репутации с другими фракциями $numFactions: $repPenaltyAvgAbs",
+    "player_intel": null,
+    "$AgentFaction instigates rebellion $onOrAt $market": "$AgentFaction провоцирует восстание $onOrAt $market",
+    "$AgentFaction intelligence has organized a rebellion $onOrAt $market. Armed activity is expected to begin in the near future.": "Разведка $AgentFaction организовала восстание $onOrAt $market. Ожидается, что боевые действия начнутся в ближайшем будущем.",
+    "The rebellion should take $timeFrame to prepare for action.": "Восстание должно занять $timeFrame, чтобы подготовиться к действию.",
+    "Your agents have organized a rebellion $onOrAt $market. Armed activity is expected to begin in the near future.": "Ваши агенты устроили восстание на $onOrAt $market. Ожидается, что боевые действия начнутся в ближайшем будущем.",
+    "$Faction counterintelligence has confirmed $agentFaction activity in organizing a rebellion $onOrAt $market. Armed activity is expected to begin in the near future.": "Контрразведка $Faction подтвердила активность $agentFaction в организации восстания $onOrAt $market. Ожидается, что боевые действия начнутся в ближайшем будущем.",
+    "The rebellion should take $timeFrame to prepare for action.\r\nRelations between $faction and $agentFaction reduced by $repEffectAbs, currently at $newRelationStr.": "Восстание должно занять $timeFrame, чтобы подготовиться к действию.\r\nОтношения между $faction и $agentFaction уменьшены на $repEffectAbs, в настоящее время на уровне $newRelationStr.",
+    "$Faction counterintelligence has confirmed your activity in organizing a rebellion $onOrAt $market. Armed activity is expected to begin in the near future.": "Контрразведка $Faction подтвердила вашу деятельность по организации восстания $onOrAt $market. Ожидается, что боевые действия начнутся в ближайшем будущем.",
+    "$AgentFaction fails to instigate rebellion $onOrAt $market": "$AgentFaction не может спровоцировать восстание $onOrAt $market",
+    "$AgentFaction agents have failed to organize a rebellion $onOrAt $market, although they were able to escape themselves.": "Агентам $AgentFaction не удалось организовать восстание на $onOrAt $market, хотя им удалось сбежать самим.",
+    "Your agents have failed to organize a rebellion $onOrAt $market, although they were able to escape themselves.": "Вашим агентам не удалось организовать восстание на $onOrAt $market, хотя им удалось сбежать самим.",
+    "$AgentFaction caught fomenting rebellion $onOrAt $market": "$AgentFaction уличен в разжигании восстания $onOrAt $market",
+    "$TheFaction has arrested and executed $agentFaction agents attempting to foment rebellion $onOrAt $market. $TheAgentFaction has disavowed the unfortunate operatives.": "$TheFaction арестовала и казнила агентов $agentFaction, пытавшихся разжечь восстание $onOrAt $market. $TheAgentFaction дезавуировал несчастных оперативников.",
+    "Relations between $faction and $agentFaction reduced by $repEffectAbs, currently at $newRelationStr.": "Отношения между $faction и $agentFaction уменьшены на $repEffectAbs, в настоящее время на уровне $newRelationStr.",
+    "$TheFaction has arrested and executed your agents attempting to foment rebellion $onOrAt $market.": "$TheFaction арестовала и казнила ваших агентов, пытавшихся поднять восстание на $onOrAt $market"
+  }
+}

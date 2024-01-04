@@ -1,0 +1,30 @@
+{
+  "TranslatedColumns": [
+    "name",
+    "desc"
+  ],
+  "Translations": {
+    "independent": null,
+    "Pulls rare, advanced warships and weapons from across the Sector for those who are willing to pay a premium and don't ask too many questions. Preferred clients get better prices.": null,
+    "exerelin.campaign.submarkets.PrismMarket": null,
+    "graphics/SCY/factions/SCY_prismStorage.png": null,
+    "200": null,
+    "The open market. Only legal goods may be traded here, and transactions are subject to tariffs. More goods are available when stability is high.\r\n\r\nSelling enough of a commodity will temporarily resolve a shortage.": null,
+    "exerelin.campaign.submarkets.Nex_OpenMarketPlugin": null,
+    "0": null,
+    "pirates": null,
+    "The black market. Anything and everything can be bought or sold, and there are no tariffs. More goods are available when stability is low.\r\n\r\nSelling a commodity will not resolve a shortage.\r\n\r\nBlack market transactions may catch the eye of authorities, resulting in cargo scans and reduced faction standing, unless the trades are carried out with the transponder turned off.\r\n\r\nEngaging in legitimate trade as a \"cover\" also reduces the probability of attracting the attention of authorities.": null,
+    "exerelin.campaign.submarkets.Nex_BlackMarketPlugin": null,
+    "graphics/factions/black_market.png": null,
+    "999": null,
+    "player": null,
+    "Storage space for ships and cargo.": null,
+    "exerelin.campaign.submarkets.Nex_StoragePlugin": null,
+    "graphics/factions/storage.png": null,
+    "1000": null,
+    "Trade with $theFaction military base.\r\n\r\nWeapons and other military hardware can be bought and sold here even if they're illegal on the open market. A commission and better standing with $theFaction results in higher-grade hardware being available.\r\n\r\nWill buy locally illegal goods as part of a no-questions-asked buyback program.\r\n\r\nSelling enough of a commodity will temporarily resolve a shortage.": null,
+    "exerelin.campaign.submarkets.Nex_MilitarySubmarketPlugin": null,
+    "100": null,
+    "exerelin.campaign.submarkets.Nex_LocalResourcesSubmarketPlugin": null
+  }
+}

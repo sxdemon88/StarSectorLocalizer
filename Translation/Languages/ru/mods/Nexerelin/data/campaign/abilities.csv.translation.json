@@ -1,0 +1,13 @@
+{
+    "TranslatedColumns": [
+      "name",
+      "desc"
+    ],
+    "Translations": {
+        "Follow Me!": "Следуй за мной!",
+        "Makes nearby eligible fleets follow you for some time.": "Заставляет близлежащие подходящие флоты следовать за вами в течение некоторого времени.",
+        "Sustained Burn": "Маршевый Режим Двигателей",
+        "Boost burn level at the cost of acceleration and wind-up time.": "Увеличьте скорость за счет ускорения, времени разгона и манёвренности."
+    }
+
+}
